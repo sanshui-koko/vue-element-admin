@@ -49,6 +49,7 @@ export default {
   .document-btn {
     float: left;
     margin-left: 50px;
+    margin-bottom: 50px;
     display: block;
     cursor: pointer;
     background: black;
